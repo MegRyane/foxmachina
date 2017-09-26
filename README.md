@@ -1,12 +1,7 @@
-# foxmachina
----
-title: Style Guide
-description: Formatting rules and guidelines for Pantheon's open-source documentation.
-contributors: [alexfornuto, rachelwhitton]
----
 
-All documentation repositories should adhere to a [style guide](https://en.wikipedia.org/wiki/Style_guide){.external}. This document serves to define and detail the style conventions used in Pantheon's Documentation.
 
+## Introduction
+This project is about **docs** and **guides**.
 
 ## Content Types
 The site features two distinct content types; **docs** and **guides**. We define docs as reference materials used to explain the behavior and intended use of Pantheon's platform features and service offerings. Guides are generally paginated and designed to walk the reader through a specific concept or task.
