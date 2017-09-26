@@ -2,6 +2,8 @@
 
 ## Introduction
 This project is about **docs** and **guides**.
+``` Drupal 8
+```
 
 ## Content Types
 The site features two distinct content types; **docs** and **guides**. We define docs as reference materials used to explain the behavior and intended use of Pantheon's platform features and service offerings. Guides are generally paginated and designed to walk the reader through a specific concept or task.
